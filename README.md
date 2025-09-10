@@ -29,5 +29,5 @@ The dashboard renders categories and widgets dynamically from a JSON-like store.
 
 ---
 
-## 📂 Project Structure
+
 
